@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>JokenPô</title>
+</head>
+
+<body>
+    <h1>JokenPô</h1>
+    <div class="container">
+        <div class="buttons">
+            <button id="rock" onclick="playHuman('rock')"><img id="img-rock" src="./assets/rock.png"
+                    alt="Pedra"></button>
+            <button id="paper" onclick="playHuman('paper')"><img id="img-paper" src="./assets/paper.png"
+                    alt="Papel"></button>
+            <button id="scissors" onclick="playHuman('scissors')"><img id="img-scissors" src="./assets/scissors.png"
+                    alt="Tesoura"></button>
+
+        </div>
+        <div class="result-box">
+            <p class="result"></p>
+        </div>
+        <div class="points">
+            <p class="your-score">Você: <span id="human-score">0</span></p>
+
+            <p class="machine-score">A máquina: <span id="machine-score">0</span></p>
+        </div>
+    </div>
+    <div class="box">
+        <img class="banner" src="./assets/fundo.png" alt="Imagem anime fundo">
+        <div class="mask"></div>
+    </div>
+    <body onload="execSom()">
+
+        <audio style="visibility:hidden" id='playAudio'>
+              <source src="./assets/End Game.mp3" type="audio/mpeg">
+        </audio>   
+
+</body>
+<footer class="footer">
+    <p>&copy; 2024. Desenvolvido por <i>Su.tech</i>.</p>
+</footer>
+
+<script src="scripts.js"></script>
+
+</html>
