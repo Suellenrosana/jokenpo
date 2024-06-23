@@ -1,10 +1,6 @@
 <h1> JokenPo🎮</h1>
 
-Jogo JokenPo tem uma interface amigável com botões para escolher entre pedra, papel e tesoura.
-
-
-
-
+O Jogo JokenPo tem uma interface amigável com botões para escolher uma opção e se divertir!.
 
 <h2>Como Jogar</h2>
 <ul>
@@ -24,7 +20,7 @@ Lembrando: Papel embrulha pedra, pedra amassa tesoura, tesoura corta papel! Pens
 Se divirtasse...e vamos juntos nessa jornada de aprendizado e diversão! 🚀 
 
 <h2>🔍 Design do Jogo</h2>
-<img src=''>
+<img src='https://github.com/Suellenrosana/jokenpo/blob/main/assets/Apresentacao.png?raw=true'>
 
 
 
