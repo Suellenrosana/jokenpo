@@ -1,6 +1,5 @@
 <h1> JokenPo🎮</h1>
-
-O Jogo JokenPo tem uma interface amigável com botões para escolher uma opção e se divertir!.
+O Jogo JokenPo tem uma interface amigável de gamer com inspiração nos animes para o usuário se divertir!.
 
 <h2>Como Jogar</h2>
 <ul>
