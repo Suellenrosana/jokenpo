@@ -4,12 +4,12 @@ O Jogo JokenPo tem uma interface amigável de gamer com inspiração nos animes 
 <h2>Como Jogar</h2>
 <ul>
 
-<li>O usuário escolhe  as opoções: pedra, papel ou tesoura clicando no botão.</li>
-<li>Lógica dinâmica em JavaScript para gerar aleatoriamente a escolha do computador.</li>
-<li>Atualização instantânea do resultado na página, proporcionando uma experiência envolvente.</li>
-<li>Regras do Jokenpo aplicadas vai determinar o vencedor ou um empate.</li>
+<li>O usuário escolhe as opções: pedra, papel ou tesoura clicando no botão</li>
+<li>A lógica dinâmica em JavaScript irá gerar aleatoriamente a escolha do computador.</li>
+<li>Instantaneamente após após as escolhas o resultado aparecera na página, proporcionando uma experiência envolvente.</li>
+<li>As regras do jogo Jokenpo aplicadas vai determinar o vencedor ou um empate.</li>
 
-Lembrando: Papel embrulha pedra, pedra amassa tesoura, tesoura corta papel! Pense bem e boa sorte!
+*Lembrando: Papel embrulha pedra, pedra amassa tesoura, tesoura corta papel!
 
 
 <h3><b>Tecnologias utilizadas:</b></h3>
